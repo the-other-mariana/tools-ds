@@ -17,7 +17,7 @@ for item in data:
 
 figTotal = plt.figure( figsize=(15,10) )
 grid = figTotal.add_gridspec(3,3)
-figTotal.suptitle("Titanic In Sight", fontsize="x-large")
+figTotal.suptitle("Titanic Ship Tragedy (1912)", fontsize="x-large")
 
 ax4 = figTotal.add_subplot( grid[0,:2]) # plot that uses the first row and 3 cols
 ax2 = figTotal.add_subplot( grid[1:,0:2] )
