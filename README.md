@@ -23,3 +23,11 @@ This repo contains the exercises and examples for learning the main tools that p
     ![img](https://github.com/the-other-mariana/tools-ds/blob/master/week6/infographic.png?raw=true)
 
 6. [Pandas Series](https://github.com/the-other-mariana/tools-ds/blob/master/week7/pandas-series-dataframes.ipynb)
+
+7. [Pandas Dataframes](https://github.com/the-other-mariana/tools-ds/blob/master/week8/pandas-dataframes.ipynb)
+
+8. [Dataframe Operations](https://github.com/the-other-mariana/tools-ds/blob/master/week9/dataframe-operations.ipynb)
+
+    - Project: [Tomato Plagues](https://github.com/the-other-mariana/tools-ds/blob/master/week9/tomatoes.ipynb)
+
+    ![img](https://github.com/the-other-mariana/tools-ds/blob/master/week9/images/test3.png?raw=true)
