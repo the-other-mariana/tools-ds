@@ -31,3 +31,19 @@ This repo contains the exercises and examples for learning the main tools that p
     - Project: [Tomato Plagues](https://github.com/the-other-mariana/tools-ds/blob/master/week9/tomatoes.ipynb)
 
     ![img](https://github.com/the-other-mariana/tools-ds/blob/master/week9/images/test3.png?raw=true)
+
+9. [Pandas Sorting](https://github.com/the-other-mariana/tools-ds/blob/master/week11/pandas-sorting.ipynb)
+
+10. [Data Cleaning](https://github.com/the-other-mariana/tools-ds/blob/master/week12/data-cleaning.ipynb)
+
+    - Exercises: [Data Filtering](https://github.com/the-other-mariana/tools-ds/blob/master/week12/data-filtering.ipynb)
+
+11. [Pandas Hierarchy Indices](https://github.com/the-other-mariana/tools-ds/blob/master/week13/pandas-hierarchy-index.ipynb)
+
+12. [Pandas Joining](https://github.com/the-other-mariana/tools-ds/blob/master/week14/pandas-joins.ipynb)
+
+    - Project: [Uber Express](https://github.com/the-other-mariana/tools-ds/blob/master/week12/uber.ipynb)
+
+    ![img](week14/images/1_123.png)
+
+    ![img](week14/images/2.png)
