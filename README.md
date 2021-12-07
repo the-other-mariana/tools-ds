@@ -42,7 +42,7 @@ This repo contains the exercises and examples for learning the main tools that p
 
 12. [Pandas Joining](https://github.com/the-other-mariana/tools-ds/blob/master/week14/pandas-joins.ipynb)
 
-    - Project: [Uber Express](https://github.com/the-other-mariana/tools-ds/blob/master/week12/uber.ipynb)
+    - Project: [Uber Express](https://github.com/the-other-mariana/tools-ds/blob/master/week14/uber.ipynb)
 
     ![img](week14/images/1_123.png)
 
